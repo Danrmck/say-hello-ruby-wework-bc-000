@@ -1,4 +1,4 @@
-puts say_hello("Gabriela")# Build your say_hello method here
+# Build your say_hello method here
 
 
 def say_hello
@@ -6,3 +6,6 @@ def say_hello
 
 
 end
+
+
+puts say_hello("Gabriela")
