@@ -1,7 +1,7 @@
-# Build your say_hello method here
+say_hello("Gabriela")# Build your say_hello method here
 
 def say_hello
-  say_hello("Gabriela") = "Hello Gabriela"
+  say_hello("Gabriela") = "Hello Gabriela!"
   puts say_hello("Gabriela")
 
 end
